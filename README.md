@@ -56,11 +56,4 @@ I build and ship real products end to end - native desktop apps, backend APIs, d
   <img src="https://img.shields.io/badge/Azure-0F1B2E?style=flat-square&logo=microsoftazure&logoColor=white">
   <img src="https://img.shields.io/badge/Vercel-0F1B2E?style=flat-square&logo=vercel&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-0F1B2E?style=flat-square&logo=linux&logoColor=white">
-</p>
-
-## GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aImErYbArRaUlT&show_icons=true&hide_border=true&count_private=true&bg_color=0F1B2E&title_color=ffffff&icon_color=5b9bd5&text_color=c9d1d9">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aImErYbArRaUlT&layout=compact&hide_border=true&bg_color=0F1B2E&title_color=ffffff&text_color=c9d1d9">
-</p>
+</p>  
