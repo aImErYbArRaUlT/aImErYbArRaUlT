@@ -1,59 +1,45 @@
 <h1 align="center">Aimery Barrault</h1>
 
 <p align="center">
-  Founder of <b>Barrault Technologies Inc.</b> · Full-stack developer · Cybersecurity degree
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=800&color=3B82F6&center=true&vCenter=true&width=560&lines=Founder+%40+Barrault+Technologies+Inc.;Full-stack+developer+who+ships+real+products;Cybersecurity+grad+%2B+adversary+simulation" alt="typing" /></a>
 </p>
 
 <p align="center">
-  <a href="https://barratec.com"><img src="https://img.shields.io/badge/Website-barratec.com-0F1B2E?style=flat-square&logo=googlechrome&logoColor=white"></a>
-  <a href="https://linkedin.com/in/aimerybarrault"><img src="https://img.shields.io/badge/LinkedIn-Connect-0F1B2E?style=flat-square&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:aimery@barratec.com"><img src="https://img.shields.io/badge/Email-aimery@barratec.com-0F1B2E?style=flat-square&logo=maildotru&logoColor=white"></a>
+  <a href="https://barratec.com"><img src="https://img.shields.io/badge/barratec.com-0F1B2E?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+  <a href="https://linkedin.com/in/aimerybarrault"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:aimery@barratec.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
----
+- Building products end to end - native macOS/Windows apps, cloud backends, data pipelines, security tooling
+- Cybersecurity grad focused on adversary simulation, recon, cryptography, and secure development
+- Open-source contributor to [docling](https://github.com/docling-project/docling-ibm-models), IBM's doc-processing toolkit for gen AI
 
-## About
+### Featured
 
-I build and ship real products end to end - native desktop apps, backend APIs, data pipelines, and security tooling. I run **Barrault Technologies Inc.**, delivering software for clients across streaming, hospitality, payroll, and analytics, and I hold a **cybersecurity degree** with a focus on adversary simulation and secure development.
+| Project | What it is |
+| --- | --- |
+| [golf-pipeline](https://github.com/aImErYbArRaUlT/golf-pipeline) | Multi-source launch-monitor data pipeline (bronze/silver/gold) with a calibrated ball-flight strategy engine |
+| [sneakers](https://github.com/aImErYbArRaUlT/sneakers) | 7-layer VPN/Tor/firewall OPSEC toolkit for Linux, macOS, and WSL |
+| [threat-simulation-capstone](https://github.com/aImErYbArRaUlT/threat-simulation-capstone) | Adversary simulation capstone - architecture, detection rules, research |
 
-- Building software products from native macOS/Windows apps to cloud backends
-- Cybersecurity: network reconnaissance, cryptography, secret detection, adversary simulation
-- Data engineering: multi-source ETL pipelines, statistical profiling, quality validation
-- Open-source contributor to [docling](https://github.com/docling-project), IBM's document-processing toolkit for gen AI
-
-## Featured Projects
-
-| Project | What it is | Stack |
-| --- | --- | --- |
-| **[golf-pipeline](https://github.com/aImErYbArRaUlT/golf-pipeline)** | Production-shaped multi-source golf launch-monitor data pipeline (bronze/silver/gold) with a calibrated ball-flight strategy engine | `Python` |
-| **[threat-simulation-capstone](https://github.com/aImErYbArRaUlT/threat-simulation-capstone)** | CSCI 460 adversary simulation capstone - architecture, detection rules, and research overview | `YARA` `Security` |
-| **[sneakers](https://github.com/aImErYbArRaUlT/sneakers)** | Cross-platform OPSEC toolkit - a 7-layer VPN/Tor/firewall stack for Linux, macOS, and WSL | `Python` `Networking` |
-| **[recipe-vault](https://github.com/aImErYbArRaUlT/recipe-vault)** | A living digital cookbook: scan, organize, and cook family recipes with an AI companion | `TypeScript` `AI` |
-
-## Open Source
-
-**[docling-project/docling-ibm-models](https://github.com/docling-project/docling-ibm-models)** - contributed a merged reading-order fix that re-enables same-row left-to-right linking with an additive right-to-left correction ([PR #163](https://github.com/docling-project/docling-ibm-models/pull/163)). Docling is IBM's open-source toolkit for preparing documents for generative AI.
-
-## Tech Stack
+### Stack
 
 <p>
-  <img src="https://img.shields.io/badge/Python-0F1B2E?style=flat-square&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/TypeScript-0F1B2E?style=flat-square&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/C++-0F1B2E?style=flat-square&logo=cplusplus&logoColor=white">
-  <img src="https://img.shields.io/badge/Swift-0F1B2E?style=flat-square&logo=swift&logoColor=white">
-  <img src="https://img.shields.io/badge/Bash-0F1B2E?style=flat-square&logo=gnubash&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white">
+  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
 </p>
-<p>
-  <img src="https://img.shields.io/badge/Next.js-0F1B2E?style=flat-square&logo=nextdotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/Node.js-0F1B2E?style=flat-square&logo=nodedotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/Fastify-0F1B2E?style=flat-square&logo=fastify&logoColor=white">
-  <img src="https://img.shields.io/badge/PostgreSQL-0F1B2E?style=flat-square&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/Stripe-0F1B2E?style=flat-square&logo=stripe&logoColor=white">
+
+<br>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aImErYbArRaUlT&show_icons=true&hide_border=true&hide_title=true&bg_color=0F1B2E&icon_color=3B82F6&text_color=E5E7EB&hide=contribs" height="150">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aImErYbArRaUlT&hide_border=true&background=0F1B2E&stroke=0F1B2E&ring=3B82F6&fire=3B82F6&currStreakLabel=E5E7EB&sideLabels=E5E7EB&dates=94A3B8&currStreakNum=E5E7EB&sideNums=E5E7EB" height="150">
 </p>
-<p>
-  <img src="https://img.shields.io/badge/Docker-0F1B2E?style=flat-square&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub_Actions-0F1B2E?style=flat-square&logo=githubactions&logoColor=white">
-  <img src="https://img.shields.io/badge/Azure-0F1B2E?style=flat-square&logo=microsoftazure&logoColor=white">
-  <img src="https://img.shields.io/badge/Vercel-0F1B2E?style=flat-square&logo=vercel&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-0F1B2E?style=flat-square&logo=linux&logoColor=white">
-</p>  
