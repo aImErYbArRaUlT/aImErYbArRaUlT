@@ -12,7 +12,7 @@
 
 - Building products end to end - native macOS/Windows apps, cloud backends, data pipelines, security tooling
 - Cybersecurity grad focused on adversary simulation, recon, cryptography, and secure development
-- Open-source contributor to [docling](https://github.com/docling-project/docling-ibm-models), IBM's doc-processing toolkit for gen AI
+- Open-source contributor to IBM's [docling](https://github.com/docling-project/docling-ibm-models) doc-processing toolkit for gen AI
 
 ### Featured
 
@@ -21,6 +21,12 @@
 | [golf-pipeline](https://github.com/aImErYbArRaUlT/golf-pipeline) | Multi-source launch-monitor data pipeline (bronze/silver/gold) with a calibrated ball-flight strategy engine |
 | [sneakers](https://github.com/aImErYbArRaUlT/sneakers) | 7-layer VPN/Tor/firewall OPSEC toolkit for Linux, macOS, and WSL |
 | [threat-simulation-capstone](https://github.com/aImErYbArRaUlT/threat-simulation-capstone) | Adversary simulation capstone - architecture, detection rules, research |
+
+### Open Source
+
+<a href="https://github.com/docling-project/docling-ibm-models/pull/163"><img src="https://img.shields.io/badge/docling--ibm--models-PR%20%23163%20merged-3B82F6?style=flat-square&logo=github&logoColor=white"></a>
+
+Merged a reading-order fix into IBM's [docling](https://github.com/docling-project/docling-ibm-models): re-enabled same-row left-to-right linking with an additive right-to-left correction.
 
 ### Stack
 
