@@ -40,6 +40,5 @@
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aImErYbArRaUlT&show_icons=true&hide_border=true&hide_title=true&bg_color=0F1B2E&icon_color=3B82F6&text_color=E5E7EB&hide=contribs" height="150">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aImErYbArRaUlT&hide_border=true&background=0F1B2E&stroke=0F1B2E&ring=3B82F6&fire=3B82F6&currStreakLabel=E5E7EB&sideLabels=E5E7EB&dates=94A3B8&currStreakNum=E5E7EB&sideNums=E5E7EB" height="150">
+  <img src="https://streak-stats.demolab.com/?user=aImErYbArRaUlT&hide_border=true&background=0F1B2E&stroke=0F1B2E&ring=3B82F6&fire=3B82F6&currStreakLabel=E5E7EB&sideLabels=E5E7EB&dates=94A3B8&currStreakNum=E5E7EB&sideNums=E5E7EB" height="160">
 </p>
