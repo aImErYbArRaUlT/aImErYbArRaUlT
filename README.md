@@ -28,23 +28,4 @@
 
 Merged a reading-order fix into IBM's [docling](https://github.com/docling-project/docling-ibm-models): re-enabled same-row left-to-right linking with an additive right-to-left correction.
 
-### Stack
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white">
-  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
-</p>
-
 <br>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=aImErYbArRaUlT&hide_border=true&background=0F1B2E&stroke=0F1B2E&ring=3B82F6&fire=3B82F6&currStreakLabel=E5E7EB&sideLabels=E5E7EB&dates=94A3B8&currStreakNum=E5E7EB&sideNums=E5E7EB" height="160">
-</p>
