@@ -28,7 +28,7 @@
 
 ---
 
-### Featured work
+### Check out some of my repos
 
 | Project | What it is |
 | --- | --- |
