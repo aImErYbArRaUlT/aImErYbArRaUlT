@@ -15,19 +15,8 @@
 ### What I do
 
 - **Ship real products.** I run Barratec, building custom software, AI, and data platforms for clients in Canada, Australia, and Europe.
-- **Work on document AI.** I contribute to the open-source libraries that turn PDFs and slides into text LLMs can actually use.
+- **Work on document AI.** I contribute to the open-source libraries that turn PDFs and slides into text LLMs use.
 - **Think like an attacker.** Cybersecurity grad (BSc, Minot State) focused on adversary simulation, recon, cryptography, and secure development.
-
-### Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![OpenTofu](https://img.shields.io/badge/OpenTofu-FFDA18?style=flat-square&logo=opentofu&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
 ---
 
