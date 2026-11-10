@@ -34,7 +34,6 @@
 | --- | --- |
 | [recipe-vault](https://github.com/aImErYbArRaUlT/recipe-vault) | A living digital cookbook: scan, organize, and cook family recipes with an AI companion |
 | [golf-pipeline](https://github.com/aImErYbArRaUlT/golf-pipeline) | Multi-source launch-monitor data pipeline (bronze, silver, gold) feeding a calibrated ball-flight strategy engine |
-| [sneakers](https://github.com/aImErYbArRaUlT/sneakers) | Seven-layer VPN, Tor, and firewall OPSEC toolkit for Linux, macOS, and WSL |
 | [threat-simulation-capstone](https://github.com/aImErYbArRaUlT/threat-simulation-capstone) | Adversary simulation capstone: architecture, detection rules, and research |
 
 ---
